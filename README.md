@@ -19,7 +19,8 @@ kienpnh@ptit:~$ sudo apt install apache2
 ```
 kienpnh@ptit:~$ sudo add-apt-repository ppa:brightbox/ruby-ng
 kienpnh@ptit:~$ sudo apt-get update
-kienpnh@ptit:~$ sudo apt-get install ruby2.4 ruby2.4-dev zlib1g-dev libxml2-dev libsqlite3-dev postgresql libpq-dev libxmlsec1-dev curl make g++
+kienpnh@ptit:~$ sudo apt-get install ruby2.4 ruby2.4-dev zlib1g-dev libxml2-dev libsqlite3-dev \
+                                     libpq-dev libxmlsec1-dev curl make g++
 ```
 
 ```
